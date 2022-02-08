@@ -1,6 +1,7 @@
 ### Oi, eu sou Lucas Caetano 👋
 - Estudante de Análise e desenvolvimento de sistemas
 - Brasileiro
+- Apaixonado por Linux 
 #### "Impossible Is My Specialty"
 <div>
   <a href="https://github.com/lucascaetan"> 
