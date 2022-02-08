@@ -5,7 +5,7 @@
 #### "Impossible Is My Specialty"
 <div>
   <a href="https://github.com/lucascaetan"> 
-  ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=luscascaetan&show_icons=true&theme=dracula)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 </div> 
   
 ### Tecnologias que eu uso no meu dia
